@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Biju129" alt="Biju129" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=22C55E&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Biju+K;+Full+Stack+Developer+%7C+Founder+Mindset" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=22C55E&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+%3CDevelopers%2F%3E;I'm+Biju+K;+ Full+Stack+Developer+%7C+Founder+Mindset" />
 </h1>
 
 <h3 align="center">I'm a Computer Science Engineer,Full Stack Developer and startup founder in the making. I love building products end to end, from Java/Spring Boot backends to React frontends and clean UI designs, and I'm mastering one skill at a time to find my niche in tech.</h3>
